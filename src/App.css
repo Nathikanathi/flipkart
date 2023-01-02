@@ -1,12 +1,26 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+.div_width{
+  width:22%
+}
+.kartimg{
+  width: 120%;
+  height: 100%;
+}
+.price{
+  vertical-align: bottom;
+    margin-left: -182px;
+}
+.click{
+  margin: 10px;
+  padding: 10px 15px 10px 15px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
